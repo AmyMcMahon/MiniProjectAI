@@ -4,7 +4,7 @@
 | Computer | Training Time (seconds) | Peak GPU Memory Usage (GB) | Eval Loss | Eval Accuracy | Eval F1 Score | Epochs |
 |----------|-------------------------|----------------------------|----------|----------|-----------|--------|
 | MacBook Pro (M1 Pro) |  8362.04    | |0.08023671805858612|  0.9891| 0.9890606182256122 | 3 |
-| Google Colab |  2605    | 1.85 | 0.067 |  0.9894 | 0.9893590322742559 | 3 |
+| Google Colab |  4183.67    | 1.66 | 0.11979560554027557 |  0.973025 | 0.9730310680096979 | 3 |
 
 ## Training Results LoRA
 | Computer | Training Time (seconds) | Peak GPU Memory Usage (GB) | Eval Loss | Eval Accuracy | Eval F1 Score | Epochs |
